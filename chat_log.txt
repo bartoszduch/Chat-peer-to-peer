@@ -1,0 +1,15 @@
+>> dzien dobry
+>> hejka
+>> jak się masz?
+>> dobrze
+>> to fajnie, zyczę miłego dnia
+>> ja też , paa
+>> quit
+>> /guit
+>> [Roxi] hej
+>> [Barti] co tam?
+>> [Roxi] A spoczko a co u ciebie?
+>> [Roxi] Hej
+>> [Barti] Hej
+>> [Barti] Jak się masz?
+>> [Barti] ./quit
