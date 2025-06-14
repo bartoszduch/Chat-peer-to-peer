@@ -15,3 +15,8 @@ A simple peer-to-peer chat written in C using TCP sockets and TLS (SSL) encrypti
 ```bash
 sudo apt update
 sudo apt install gcc make libssl-dev
+make
+openssl req -x509 -newkey rsa:2048 -keyout key.pem -out cert.pem -days 365 -nodes
+./chat
+./chat 127.0.0.1 5000
+
